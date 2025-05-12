@@ -154,6 +154,7 @@ body {
 footer {
 	margin:var(--spacing-xxl) 0;            /* 4rem (64px) top and bottom */
     font-size:var(--scale-0);
+	color: #355545;
 }
 
 /* Responsive adjustments */

@@ -34,7 +34,7 @@
 /* Default */
 .button.button-default {
 	--button-text:#ffffff;
-	--button-background:#2457F5;
+	--button-background:#355545;
 	--button-border:1px solid #ffffff;
 }
 
@@ -227,10 +227,10 @@
 	--button-background:#6151b2;
 }
 
-/* GoFundMe */
+/* Sign Up / Waitlist */
 .button-gofundme {
 	--button-text:#ffffff;
-	--button-background:#02A95C;
+	--button-background:#355545;
 }
 
 /* Goodreads */
