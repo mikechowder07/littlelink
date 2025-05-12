@@ -132,6 +132,7 @@ h1 {
 	letter-spacing:-0.02em;
 	word-wrap:break-word;
 	overflow-wrap:break-word;
+	color: #355545;
 }
 body {
 	font-size:var(--scale-1);           /* 20px */
