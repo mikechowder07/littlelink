@@ -231,6 +231,7 @@
 .button-gofundme {
 	--button-text:#ffffff;
 	--button-background:#355545;
+	--button-border:1px solid #ffffff;
 }
 
 /* Goodreads */
