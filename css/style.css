@@ -112,8 +112,8 @@
 
 /* Avatar */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	width: 12rem;             /* 192px */
+	height: 12rem;
 	border-radius: 50%;
 	object-fit: cover;
 	background-position: center;
@@ -126,7 +126,7 @@
 /* Typography Scale */
 h1 {
 	margin:0 0 var(--spacing-m) 0;
-	font-size:var(--scale-5);           /* ~49px */
+	font-size:var(--scale-4);           /* ~39px */
   	font-weight:800;
 	line-height:1.1;
 	letter-spacing:-0.02em;
@@ -221,8 +221,8 @@ a:hover {
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
-	width: 8rem;             /* 128px */
-	height: 8rem;
+	width: 12rem;             /* 192px */
+	height: 12rem;
 	object-fit: cover;
 	background-position: center;
 	margin-bottom: var(--spacing-l);
